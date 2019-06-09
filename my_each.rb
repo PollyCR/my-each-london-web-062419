@@ -6,5 +6,3 @@ return i
 end 
 i +=1 
 end 
-
-my_each(collection) {|x| puts x}
