@@ -3,6 +3,6 @@ i = 0
 while i < collection.length 
 yield 
 return collection 
-i +=1 
 end 
+i +=1 
 end 
